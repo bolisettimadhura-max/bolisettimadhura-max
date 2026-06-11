@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Madhu Bolisetti 👋
 
-<!--
-**bolisettimadhura-max/bolisettimadhura-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
 
-Here are some ideas to get you started:
+💻 Java Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Web Developer
+
+📊 Data Analytics Enthusiast
+
+🚀 Open to Internship Opportunities
+
+---
+
+## 🛠️ Skills
+
+- Java
+- HTML
+- CSS
+- JavaScript
+- Python
+- SQL
+- Data Analytics
+
+---
+
+## 🚀 Featured Projects
+
+🌐 SCT_WD_1
+
+📝 SkillCraft Quiz Master
+
+⏱️ Modern Stopwatch App
+
+📋 Modern To-Do App
+
+🎮 Tic-Tac-Toe Web Application
+
+🧮 Calculator Web App
+
+📊 OIBSIP Data Analytics Projects (01 - 09)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Java
+- Data Analytics
+- Front-End Development
+- Git & GitHub
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: www.linkedin.com/in/madhu-bolisetti-b69bb937d
+
+---
+
+⭐ Thanks for visiting my GitHub Profile!
